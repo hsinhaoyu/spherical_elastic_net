@@ -4,7 +4,7 @@ The elastic net is a numerical algorithm for approximating the solution to the t
 
 The standard elastic net algorithm is formulated such that the "prototypes" to be matched by the elastic net are distributed in Euclidean spaces. However, for applications involving the mapping between the cortical sheet and the retina, the spherical geometry of the retina should be taken into account. This is an implementation of the elastic net (using Tensorflow) for the spherical surface. It can be used as a research tool, or as an demonstration of using gradient descent in non-Euclidean spaces.
 
-A video of the program in action is at: https://www.youtube.com/watch?v=uoZcTG_i2jQ&feature=youtu.be
+A video of the program in action is at: goo.gl/5t4DBR
 
 # References
 - Durbin R, Mitchison G (1990) A dimension reduction framework for understanding cortical maps. _Nature_ 343 644-647.
