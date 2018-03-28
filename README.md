@@ -6,6 +6,8 @@ The standard elastic net algorithm is formulated such that the "prototypes" to b
 
 A video of the program in action is at: goo.gl/5t4DBR
 
+A blog post about it: http://hhyu.org/posts/elastic/
+
 # References
 - Durbin R, Mitchison G (1990) A dimension reduction framework for understanding cortical maps. _Nature_ 343 644-647.
 - Durbin R, Willshaw D (1987) An analogue approach to the travelling salesman problem using an elastic net method. _Nature_ 326 689-691.
